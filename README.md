@@ -4,6 +4,19 @@ Sou **desenvolvedor full stack** e **analista de sistemas** com forte atuação 
 
 Com formação em **História** e **Relações Internacionais**, trago uma visão crítica e interdisciplinar que une tecnologia, ciências humanas e inovação. Tenho profundo interesse em **sociologia, filosofia, antropologia e astronomia**, áreas que influenciam minha forma de pensar soluções tecnológicas de forma sistêmica e humana.
 
+
+---
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Felipe Toledo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipe404&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lipe404&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lipe404&theme=tokyonight&hide_border=true)
+
+</div>
+---
+
 ---
 
 ## Áreas de Atuação
@@ -54,7 +67,7 @@ Com formação em **História** e **Relações Internacionais**, trago uma visã
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/felipetoledo)
+- [LinkedIn](https://www.linkedin.com/in/felipetoledo8/)
 - [Portfólio / Site Pessoal](https://felipetoledo.dev) *(ou link futuro)*
 - felipe.toledo.ads@gmail.com
 
