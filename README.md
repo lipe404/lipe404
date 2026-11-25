@@ -6,15 +6,6 @@ Estudei História e Relações Internacionais e hoje curso Análise e Desenvolvi
 
 [**Portfólio**](https://toledo-felipe.vercel.app/portfolio) · [LinkedIn](https://www.linkedin.com/in/felipetoledo8/) · [E-mail](mailto:felipe.toledo.ads@gmail.com)
 
-## Projetos para explorar
-
-| Projeto | O que dá para ver |
-| :--- | :--- |
-| [Leitores Inoxidáveis](https://leitores-inoxidaveis.vercel.app/) | Site do clube de leitura, com acervo, mapa literário e [linha do tempo](https://leitores-inoxidaveis.vercel.app/timeline). |
-| [Vapor Run](https://github.com/lipe404/vapor-run) | Jogo de corrida livre com visual vaporwave. |
-| [Lote WebP](https://github.com/lipe404/lote-webp) | Ferramenta em Python para converter imagens em lote para WebP. |
-| [Pulso Festival](https://lipe404.github.io/toledo-lab-pulso-festival/) | Uma das demos conceituais do Toledo Lab, com programação interativa de festival. |
-
 ## Ferramentas de trabalho
 
 - **Web:** TypeScript, React, Next.js, Tailwind CSS e Leaflet.
